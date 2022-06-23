@@ -299,4 +299,12 @@ label{
    
 
 }
+.row{
+    display: flex;
+    justify-content: center ;
+    gap: 3em;
+    flex-wrap: wrap;
+}
+
+
 
